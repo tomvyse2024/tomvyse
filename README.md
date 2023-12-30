@@ -34,7 +34,7 @@
   <a href="https://drive.google.com/file/d/1ul0hx8kuY4zFjrpSTLJ4Af_KopV1IS6y/view?usp=sharing" download>
     Download Link 📥
   </a>
-  <p style="color: rgb(206, 204, 235);">Donload File Password = 1122</p> 
+  <p style="color: rgb(206, 204, 235);">Donload File Password = 2024</p> 
   <p style="color:rgb(97, 195, 212); font-size: 18px;">If you want script of this application contact me:</p>
   <a href="https://www.facebook.com/kotom2003">
     <img src="facebookacc.jpg" alt="My Account Photo" witdh="100" height="200"></a><br>
